@@ -229,7 +229,7 @@ Pattern-making is the detection and compression of regularities. It’s what the
 
 Meaning-making begins when patterns are *interpreted*. Once a rhythm is found, the mind asks, “What does this rhythm *mean* for me, for us?” It’s no longer about reducing variance, but about increasing coherence. Meaning is born in relation, not detection. A pattern is merely a form; meaning is that form situated in a story, a use, a moral, a memory.
 
-To borrow your **ukb-fractal** grammar:
+To borrow your **[ukb](https://ukb-dt.github.io/see/)-fractal** grammar:
 
 * **Pattern-making lives in the trunk (Σ)**—compression, gradient, predictive control.
 * **Meaning-making flowers in the canopy (ΔS)**—reappraisal, yield, accumulated significance.
